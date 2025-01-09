@@ -4,21 +4,21 @@ console("Hello World")
 // var b=20;
 // var D= a+b
 
-// console.log(D)
+// console.log(D);
 
 
-// var a= 50;
-// console.log(a)
+// var a= 50;'
+// console.log(a);
 
 
-// var x =20;
+// var x =20;;
 // x +=30;
-// console.log(x)
+// console.log(x);;
 
 // var y=100;
 // var c=50
 // var n= y-c;
-// console.log(n)
+// console.log(n);
 
 // var a=40;
 // a **= 2;
